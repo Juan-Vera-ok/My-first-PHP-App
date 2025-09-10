@@ -25,14 +25,14 @@ $data = json_decode($result, true);
 <meta property="og:url" content="https://juanignaciovera-first-php-app.zeabur.app/" />
 <meta property="og:title" content="Next Marvel Movie" />
 <meta property="og:description" content="Next Marvel Movie" />
-<meta property="og:image" content="https://metatags.io/images/spider.jpg" />
+<meta property="og:image" content="/spider.jpg" />
 
 <!-- X (Twitter) -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content="https://juanignaciovera-first-php-app.zeabur.app/" />
 <meta property="twitter:title" content="Next Marvel Movie" />
 <meta property="twitter:description" content="Next Marvel Movie" />
-<meta property="twitter:image" content="https://metatags.io/images/spider.jpg" />
+<meta property="twitter:image" content="/spider.jpg" />
 
 <!-- Meta Tags Generated with https://metatags.io -->
     <style>
